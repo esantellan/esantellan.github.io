@@ -1,0 +1,15 @@
+.errorTitle {
+    margin: 0;
+
+    font-size: 5rem;
+}
+
+.errorMessage {
+    font-size: 2rem;
+}
+
+.returnLink {
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: underline;
+}

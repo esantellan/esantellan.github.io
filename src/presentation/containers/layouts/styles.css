@@ -1,0 +1,14 @@
+.topSectionContainer {
+    height: 100vh;
+}
+
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: calc(80vh - 80px);
+    color: white;
+    font-family: "Atkinson";
+}
