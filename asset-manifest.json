@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.be499f03.css",
+    "main.js": "/static/js/main.102cbab5.js",
+    "static/js/453.932afe9e.chunk.js": "/static/js/453.932afe9e.chunk.js",
+    "static/media/jetbrains.ttf": "/static/media/jetbrains.d08f929cab66fc19b568.ttf",
+    "static/media/minecraftia.ttf": "/static/media/minecraftia.69fd3db14fbc8b3f7cdb.ttf",
+    "static/media/atkinson.ttf": "/static/media/atkinson.b67275748172037676f3.ttf",
+    "static/media/mate.svg": "/static/media/mate.b7ab1c6f68dd1e515d53294c8427f21f.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.19ef6195ca72bcfed1309a22ee34c695.svg",
+    "static/media/github.svg": "/static/media/github.97ed8e7eef60d61ca469881dd6f34511.svg",
+    "index.html": "/index.html",
+    "main.be499f03.css.map": "/static/css/main.be499f03.css.map",
+    "main.102cbab5.js.map": "/static/js/main.102cbab5.js.map",
+    "453.932afe9e.chunk.js.map": "/static/js/453.932afe9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be499f03.css",
+    "static/js/main.102cbab5.js"
+  ]
+}
